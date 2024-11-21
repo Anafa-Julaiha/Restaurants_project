@@ -9,6 +9,4 @@ A Python project to scrape restaurant data from Dineout's Chennai restaurant lis
 - **Data Export**: Saves data to Excel and CSV formats.
 - **High-Rated Restaurants Filter**: Generates a list of highly-rated restaurants (ratings ≥ 4.0).
 
-## Project Structure
 
-Dineout-Chennai-Restaurants-Scraper/ │ ├── main.py # Main script containing the code ├── All_Restaurant_XL.xlsx # Excel file with all scraped restaurant data ├── All_Restaurant_Details.csv # CSV file with all scraped restaurant data ├── Best_Restaurants_of_Chennai.csv # CSV file with high-rated restaurants ├── README.md # Project documentation file └── requirements.txt # Python dependencies
